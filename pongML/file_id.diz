@@ -1,0 +1,28 @@
+**************************
+*** TeXtModE PONG GaMe ***
+**************************
+
+Codigo fuente del pong para linux/ncurses.
+Para compilar, ejecutar make.
+
+Teclas para jugar:
+==================
+  Presentacion:
+     Enter: Continuar.
+  Menus:
+     Cursor_Arriba: Arriba.
+     Cursor_Abajo:  Abajo.
+     Enter:         Seleccionar Opcion.
+
+  En Juego:
+     Escape: Pausa / Abortar.
+     Jugador 1:
+       "A": Arriba.
+       "Z": Abajo.
+     Jugador 2:
+       "L" o Cursor_Arriba: Arriba.
+       ":" o Cursor_Abajo:  Abajo.
+
+----------------------------------------
+By: iDq + ronaldo^HardNULL CopyNoW 2001
+----------------------------------------
